@@ -1,4 +1,4 @@
-📦 Inventory Management System
+📦 INVENTORY MANAGEMENT SYSTEM
 
 A full-stack web application designed to manage inventory efficiently for small and medium-scale businesses.
 The system automates product management, tracks stock levels in real time, and highlights low-stock items to support better decision-making.
